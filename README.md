@@ -17,8 +17,8 @@ Antes de começar, verifique se você tem os seguintes pacotes instalados:
 1. Clone o repositório:
 
    ```sh
-    git clone https://github.com/usuario/repo.git
-    cd repo
+    git clone https://github.com/reqquia/tradutor-simultaneo
+    cd tradutor-simultaneo
     python main.py
    ```
 
